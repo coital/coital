@@ -4,8 +4,8 @@
 **appendable/appendable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - Languages
-  - I'm learning C, C++
-  - I'm somewhat familiar with python, js, and C#
+  - I'm learning C, C++, Go
+  - I'm familiar with Python, JS, and C#
 - You can reach me via discord, mainly. My discord ID is 795595009335885825, username and tag are kylie#1337
 
 ![appendable's github stats](https://github-readme-stats.vercel.app/api?username=appendable&theme=radical)
