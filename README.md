@@ -6,7 +6,7 @@
 - Languages
   - I'm learning C, C++, Go
   - I'm familiar with Python, JS, and C#
-- You can reach me via discord, mainly. My discord ID is 795595009335885825, username and tag are kylie#1337
+- You can reach me via discord, mainly. My discord ID is 804169106492358656.
 
 ![appendable's github stats](https://github-readme-stats.vercel.app/api?username=appendable&theme=radical)
 
