@@ -8,7 +8,7 @@
   - I'm familiar with Python, JS, and C#
 - You can reach me via discord, mainly. My discord ID is 816368715506909214.
 
-![](https://komarev.com/ghpvc/?username=coital)  
+![Visitor Count](https://profile-counter.glitch.me/coital/count.svg)  
 ![coital's github stats](https://github-readme-stats.vercel.app/api?username=coital&theme=radical)
 
 
