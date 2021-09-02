@@ -9,6 +9,7 @@
 - You can reach me via discord, mainly. My discord ID is 816368715506909214.
 
 ![Visitor Count](https://profile-counter.glitch.me/coital/count.svg)    
-![coital's github stats](https://github-readme-stats.vercel.app/api?username=coital&theme=radical)
+    ![counter](https://enit5oejnzwkvvm.m.pipedream.net)
+
 
 
