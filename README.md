@@ -3,9 +3,12 @@
 <!--
 **appendable/appendable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- Languages
-  - I'm learning C++
-  - I'm familiar with Python, JS, and C#
+* Interests
+  * C++
+  * JS (Specifically [Discord.JS](https://github.com/discordjs/discord.js).
+  * Automation of certain tasks with Python.
+  * Arguing with random people via the internet (probably how you got here).
+  * 
 
 - Socials
   - Discord: kyIe#1337, 816368715506909214
