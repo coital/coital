@@ -9,7 +9,6 @@
 - You can reach me via discord, mainly. My discord ID is 816368715506909214.  
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coital&theme=blue-green)
-![GitHub Contributors Image](https://contrib.rocks/image?repo=coital/nuked)  
 ![Profile View Counter](https://komarev.com/ghpvc/?username=coital)
 
 
