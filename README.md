@@ -5,10 +5,10 @@
 
 * Interests
   * C++
-  * JS (Specifically [Discord.JS](https://github.com/discordjs/discord.js)).
+  * JS (specifically [Discord.JS](https://github.com/discordjs/discord.js)).
   * Automation of certain tasks with Python.
   * Arguing with random people via the internet (probably how you got here).
-  * Cats (specifically my cat, not yours).
+  * Cats (my cat, not yours).
 
 - Socials
   - Discord: kyIe#1337, 816368715506909214
