@@ -19,7 +19,7 @@
   - Discord: kyIe#1337, 816368715506909214
 
 # FAQ
-Q: Why aren't the links above working?
+Q: Why aren't the links above working?  
 A: The repositories are most likely private.
 
 ---
