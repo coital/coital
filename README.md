@@ -15,12 +15,12 @@
   * [Secrets](https://github.com/coital/secrets), malware developed in C++ designed to steal information from the victim.
   * A couple of projects designed to be fully undetectable from antimalware engines.
 
-- Socials
-  - Discord: kyIe#1337, 816368715506909214
-
+* Socials
+  * ![My Discord](https://discord-readme-badge.vercel.app/api?id=816368715506909214)
+  
 # FAQ
-Q: Why aren't the links above working?  
-A: The repositories are most likely private.
+**Q**: Why aren't the links above working?  
+**A**: The repositories are most likely private.
 
 ---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=coital)    
