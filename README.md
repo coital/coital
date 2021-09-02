@@ -18,6 +18,10 @@
 - Socials
   - Discord: kyIe#1337, 816368715506909214
 
+# FAQ
+Q: Why aren't the links above working?
+A: The repositories are most likely private.
+
 ---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=coital)    
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coital&theme=blue-green)   
