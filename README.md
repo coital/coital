@@ -16,7 +16,7 @@
   * A couple of projects designed to be fully undetectable from antimalware engines.
 
 * Socials
-  * ![My Discord](https://discord-readme-badge.vercel.app/api?id=816368715506909214)
+  * Discord: kyIe#1337, 816368715506909214
   
 # FAQ
 **Q**: Why aren't the links above working?  
