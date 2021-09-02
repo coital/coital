@@ -25,3 +25,4 @@
 ---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=coital)    
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coital&theme=blue-green)   
+![My Discord](https://discord-readme-badge.vercel.app/api?id=816368715506909214)
