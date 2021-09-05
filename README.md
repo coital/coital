@@ -1,7 +1,5 @@
 <p align="center">
-    ```
-       hi, i'm kyle 👋
-    ```
+       `hi, i'm kyle` 👋
 </p>
 
 <!--
