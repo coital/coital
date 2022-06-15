@@ -20,7 +20,7 @@
   * Nuked v6
 
 * Socials
-  * Discord: kyIe#1337, 816368715506909214
+  * Discord: kyIe#1337, [981301663509913610](https://discord.id)
   
 # FAQ
 **Q**: Why aren't the links above working?  
