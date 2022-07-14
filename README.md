@@ -12,8 +12,13 @@
   * A couple of projects designed to be fully undetectable from antimalware engines.
   * Nuked v6
 
-* Socials
-  * Discord: kyIe#1337, [981301663509913610](https://discord.id)
+<div align="center">
+  <details close><summary>Contact :</summary>
+    <h4>Discord ID: 872439204175577158</h4>
+    <h4>Use https://discord.id/ for profile information.</h4>
+  </details>
+ </div>
+
 
 # FAQ
 **Q**: Why aren't the links above working?  
@@ -22,9 +27,3 @@
 ---
 ![Profile View Counter](https://komarev.com/ghpvc/?username=coital)    
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coital&theme=blue-green)   
-<div align="center">
-  <details close><summary>Contact :</summary>
-    <h4>Discord ID: 872439204175577158</h4>
-    <h4>Use https://discord.id/ for profile information.</h4>
-  </details>
- </div>
