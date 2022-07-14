@@ -10,10 +10,9 @@
   * [Oxygen T6ZM](https://github.com/coital/oxygen-t6zm), an internal cheat for Call of Duty: Black Ops II.
   * [Secrets](https://github.com/coital/secrets), malware developed in C++ designed to steal information from the victim.
   * A couple of projects designed to be fully undetectable from antimalware engines.
-  * Nuked v6
 
 
-<details close><summary>Contact :</summary>
+<details close><summary>Contact</summary>
   <h4>Discord ID: 872439204175577158</h4>
   <h4>Use https://discord.id/ for profile information.</h4>
 </details>
