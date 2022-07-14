@@ -12,12 +12,11 @@
   * A couple of projects designed to be fully undetectable from antimalware engines.
   * Nuked v6
 
-<div align="center">
-  <details close><summary>Contact :</summary>
-    <h4>Discord ID: 872439204175577158</h4>
-    <h4>Use https://discord.id/ for profile information.</h4>
-  </details>
- </div>
+
+<details close><summary>Contact :</summary>
+  <h4>Discord ID: 872439204175577158</h4>
+  <h4>Use https://discord.id/ for profile information.</h4>
+</details>
 
 
 # FAQ
