@@ -23,5 +23,6 @@
 **A**: The repositories are most likely private.
 
 ---
+![](https://i.imgur.com/lW7ukhX.png)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=coital)    
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coital&theme=blue-green)   
