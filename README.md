@@ -1,4 +1,4 @@
-<p align="center">![](https://i.imgur.com/lW7ukhX.png)</p>
+<p align="center"><img src="https://i.imgur.com/lW7ukhX.png"/></p>
 * Interests
   * C++
   * JS (specifically [Discord.JS](https://github.com/discordjs/discord.js)).
